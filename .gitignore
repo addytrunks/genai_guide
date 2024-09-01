@@ -1,0 +1,6 @@
+.env
+./4_rag/books
+./4_rag/utils
+./4_rag/db
+#Cache folders
+__pycache__/
