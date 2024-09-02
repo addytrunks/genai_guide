@@ -16,3 +16,12 @@ if age:
 
 if choice:
     st.write(f'You are a {choice}')
+
+'''
+Extras
+
+Below are decorators to implement caching mechanism
+@st-cache_data => used to cache computations that return data
+@st-cache_resource=> used cache global resources like ML models or database connections – unserializable objects that you don't want to load multiple times. 
+
+'''
