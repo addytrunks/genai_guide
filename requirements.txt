@@ -2,6 +2,7 @@ langchain
 langchain_groq
 langchain_openai
 langchain_huggingface
+langchain_community
 langchain-core
 python-dotenv
 ipykernel
