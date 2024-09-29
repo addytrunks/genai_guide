@@ -4,4 +4,4 @@
 ./4_rag/db
 #Cache folders
 __pycache__/
-langchain_venv/
+genai/
