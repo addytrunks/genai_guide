@@ -6,3 +6,8 @@ langchain_community
 langchain-core
 python-dotenv
 ipykernel
+cassio
+datasets
+openai
+tiktoken
+langchain_nvidia_ai_endpoints
