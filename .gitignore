@@ -5,3 +5,4 @@
 #Cache folders
 __pycache__/
 genai/
+GRAPH_DB/graph_db/
