@@ -45,7 +45,7 @@ print("Current Chat History:", chat_history.messages)
 # Initialize Chat Model
 model = ChatOpenAI(model="gpt-4o-mini")
 
-print("Start chatting with the AI. Type 'exit' to quit.")
+print("Start chatting with AI. Type 'exit' to quit.")
 
 while True:
     human_input = input("User: ")
