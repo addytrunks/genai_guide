@@ -6,3 +6,4 @@
 __pycache__/
 genai/
 GRAPH_DB/graph_db/
+genai_venv

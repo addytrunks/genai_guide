@@ -12,3 +12,5 @@ openai
 tiktoken
 langchain_nvidia_ai_endpoints
 lamini
+Crawl4AI==0.4.247
+pydantic==2.10.6
